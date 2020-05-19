@@ -1,3 +1,3 @@
 # Django-resturent
-This is a django website which i made from learning in udemy
-In which the instructer was Mahmoud Ahmed
+A Simple site for the resturent
+fully functionnig backend
